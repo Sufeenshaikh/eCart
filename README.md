@@ -14,6 +14,8 @@ eCart provides a straightforward shopping cart system for iOS applications. It i
 - Simple and easy-to-integrate Swift code
 
 ## Screenshots
-![Alt Text](Uploading Screenshot 2024-01-30 at 5.28.57 PM.png…)
+![Alt Text](./images/screenshot1.png)
 
 
+
+![Uploading Screenshot 2024-01-30 at 5.28.57 PM.png…]()
